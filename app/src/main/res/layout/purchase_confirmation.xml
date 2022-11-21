@@ -3,16 +3,20 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:background="#62def8">
+    android:background="@drawable/purchase_confirmation_bgk">
 
     <TextView
+        android:id="@+id/Purchase"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
         android:gravity="center_vertical|center_horizontal"
-        android:layout_margin="30dp"
+        android:text="."
         android:textSize="22sp"
-        android:id="@+id/Purchase"
-        android:text="."/>
+        android:textColor="@color/black"/>
 
 </RelativeLayout>
