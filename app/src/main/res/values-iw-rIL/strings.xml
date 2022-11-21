@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">פרויקט</string>
+    <string name="Theater">קולנוע</string>
+    <string name="Date">תאריך</string>
+    <string name="selected_item">בחירה:</string>
+    <string name="order_now">הזמן עכשיו</string>
+    <string name="buy_now">קנה עכשיו</string>
+    <string name="chooseNumberOfTTickets">בחר מספר כרטיסים</string>
+    <string name="summary">"מקבץ של סיפורים השזורים אחד בשני מבית היוצר של קוונטין טרנטינו. הסרט מתחיל בזוג גנבים ששודד בית קפה תמים למדי וממשיך בסיפורם של וינסנט וג'וליוס שגובים חובות בשביל מרסלוס וואלס המאיים שלאחרונה נבגד ע\"י מתאגרף כושל שהיה צריך להפסיד בקרב האחרון שלו. שלושת חלקי הסיפור מתחברים זה בזה בצורה שרק טרנטינו יכול לחבר ונוצר בלאגן גאוני. "</string>
+    <string name="sum">סכום:</string>
+    <string-array name="Theaters">
+        <item>ראשון</item>
+        <item>ירושלים</item>
+        <item>אשדוד</item>
+    </string-array>
+    <string name="purchase">תודה רבה על קנייתך!</string>
+    <string name="purchase2">"קניתה "</string>
+    <string name="purchase3">כרטיסים לסרט \"ספרות זולה\" בקולנוע ב</string>
+    <string name="purchase4">"בתאריך "</string>
+    <string name="purchase5">. הסכום הכולל הוא</string>
+    <string name="purchase6">. תהנו!</string>
+</resources>
